@@ -1,0 +1,13 @@
+# Python build & cache 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+*.so 
+# Virtual environment 
+venv/ 
+env/ 
+# Weights & Biases cache 
+wandb/ 
+# Data & VS Code settings 
+*.csv 
+.vscode/ 
